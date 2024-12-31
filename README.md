@@ -1,5 +1,5 @@
 
-# ===================== How to Read Data from `.properties` File =====================
+# ========= How to Read Data from `.properties` File =========
 
 ## What I Did:
 1. Created a `.properties` file named `config.properties` inside the `testdata` folder in the project directory.
